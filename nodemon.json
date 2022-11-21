@@ -1,0 +1,12 @@
+{
+    "restartable": "rs",
+    "verbose": true,
+    "ignore": [
+        "./src/tests",
+        "./src/models"
+    ],
+    "watch": [
+        "src/*"
+    ],
+    "ext": "js,ts,yaml"
+}

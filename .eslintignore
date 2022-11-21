@@ -1,0 +1,29 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# logs
+/logs
+
+# envs
+/environments
+
+# misc
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitignore
+.nvmrc
+.prettierignore
+.prettierrc.json
+jest.config.js
+nodemon.json
+package-lock.json
+package.json
+README.md
+tsconfig.json
